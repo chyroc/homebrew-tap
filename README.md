@@ -14,11 +14,15 @@ $ brew tap chyroc/tap
 
 ### Install otp-cli
 
+README: https://github.com/chyroc/otp-cli
+
 ```sh
 $ brew install otp-cli
 ```
 
 ### Install media-to-github
+
+README: https://github.com/chyroc/media-to-github
 
 ```sh
 $ brew install media-to-github
