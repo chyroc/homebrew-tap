@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 # brew config for media-to-github
-class MediaToGitHub < Formula
+class MediaToGithub < Formula
   desc "Tool for upload media file to github"
   homepage "https://github.com/chyroc/media-to-github"
   url "https://github.com/chyroc/media-to-github/releases/download/v0.1.0/media-to-github-0.1.0.tar.gz"
