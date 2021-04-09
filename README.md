@@ -12,10 +12,16 @@ Run the following in your command-line:
 $ brew tap chyroc/tap
 ```
 
-### Install OTP-CLI
+### Install otp-cli
 
 ```sh
 $ brew install otp-cli
+```
+
+### Install media-to-github
+
+```sh
+$ brew install media-to-github
 ```
 
 ## License
