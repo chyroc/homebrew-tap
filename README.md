@@ -28,6 +28,14 @@ README: https://github.com/chyroc/media-to-github
 $ brew install media-to-github
 ```
 
+### Install dropbox-save-url
+
+README: https://github.com/chyroc/dropbox-save-url
+
+```sh
+$ brew install dropbox-save-url
+```
+
 ## License
 
 See [LICENSE](LICENSE).
