@@ -32,7 +32,7 @@ $ brew install chyroc/tap/dropbox-save-url
 
 ### mdcat
 
-- README: https://github.com/chyroc/go-mdcat
+- README: https://github.com/chyroc/mdcat
 - Usage: 将 Markdown 文件转化为一个 GitHub 风格的 HTML 文件
 
 ```sh
