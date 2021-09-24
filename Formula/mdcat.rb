@@ -3,11 +3,11 @@
 # brew config for mdcat
 class Mdcat < Formula
   desc "Convert markdown to github style html page"
-  homepage "https://github.com/chyroc/go-mdcat"
-  url "https://github.com/chyroc/go-mdcat/releases/download/v0.2.0/go-mdcat-0.2.0.tar.gz"
-  sha256 "4549f5408da3e0b8634090bab40cfbe6862946597e2b98d9e09ab36087692df6"
+  homepage "https://github.com/chyroc/mdcat"
+  url "https://github.com/chyroc/mdcat/releases/download/v0.3.0/mdcat-0.3.0.tar.gz"
+  sha256 "087daa96deb56e1fb77d24a7a80aa52c9c6401de9929df6977403ba84374daa7"
   license "Apache-2.0"
-  head "https://github.com/chyroc/go-mdcat"
+  head "https://github.com/chyroc/mdcat"
 
   depends_on "go" => :build
 
