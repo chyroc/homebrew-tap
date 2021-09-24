@@ -18,7 +18,7 @@ $ brew tap chyroc/tap
 - Usage: 在命令行中生成 OTP 码
 
 ```sh
-$ brew install otp-cli
+$ brew install chyroc/tap/otp-cli
 ```
 
 ### dropbox-save-url
@@ -27,7 +27,7 @@ $ brew install otp-cli
 - Usage: 离线下载一个 URL 到 Dropbox 空间
 
 ```sh
-$ brew install dropbox-save-url
+$ brew install chyroc/tap/dropbox-save-url
 ```
 
 ### mdcat
@@ -36,7 +36,7 @@ $ brew install dropbox-save-url
 - Usage: 将 Markdown 文件转化为一个 GitHub 风格的 HTML 文件
 
 ```sh
-$ brew install mdcat
+$ brew install chyroc/tap/mdcat
 ```
 
 ### media-to-github
@@ -45,7 +45,7 @@ $ brew install mdcat
 - Usage: 上传小文件资源到 GitHub，并利用 github pages 功能生成 url
 
 ```sh
-$ brew install media-to-github
+$ brew install chyroc/tap/media-to-github
 ```
 
 ## License
