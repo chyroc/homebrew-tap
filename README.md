@@ -35,6 +35,10 @@ $ brew install dropbox-save-url
 - README: https://github.com/chyroc/go-mdcat
 - Usage: 将 Markdown 文件转化为一个 GitHub 风格的 HTML 文件
 
+```sh
+$ brew install mdcat
+```
+
 ### media-to-github
 
 - README: https://github.com/chyroc/media-to-github
