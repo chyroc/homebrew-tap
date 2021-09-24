@@ -12,31 +12,36 @@ Run the following in your command-line:
 $ brew tap chyroc/tap
 ```
 
-### Install otp-cli
+### otp-cli
 
 - README: https://github.com/chyroc/otp-cli
-- Usage: generate otp code in terminal
+- Usage: 在命令行中生成 OTP 码
 
 ```sh
 $ brew install otp-cli
 ```
 
-### Install media-to-github
-
-- README: https://github.com/chyroc/media-to-github
-- Usage: 上传小文件资源到 github，并利用 github pages 功能生成 url
-
-```sh
-$ brew install media-to-github
-```
-
-### Install dropbox-save-url
+### dropbox-save-url
 
 - README: https://github.com/chyroc/dropbox-save-url
 - Usage: 离线下载一个 URL 到 Dropbox 空间
 
 ```sh
 $ brew install dropbox-save-url
+```
+
+### mdcat
+
+- README: https://github.com/chyroc/go-mdcat
+- Usage: 将 Markdown 文件转化为一个 GitHub 风格的 HTML 文件
+
+### media-to-github
+
+- README: https://github.com/chyroc/media-to-github
+- Usage: 上传小文件资源到 GitHub，并利用 github pages 功能生成 url
+
+```sh
+$ brew install media-to-github
 ```
 
 ## License
