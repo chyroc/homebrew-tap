@@ -39,13 +39,13 @@ $ brew install chyroc/tap/dropbox-save-url
 $ brew install chyroc/tap/mdcat
 ```
 
-### emommit
+### emomit
 
-- README: https://github.com/chyroc/emommit
+- README: https://github.com/chyroc/emomit
 - Usage: 通过交互式的命令选择 Git Commit Type 和 Emoji 表情进行提交
 
 ```sh
-$ brew install chyroc/tap/emommit
+$ brew install chyroc/tap/emomit
 ```
 
 ### media-to-github

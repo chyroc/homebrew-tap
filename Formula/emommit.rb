@@ -1,13 +1,13 @@
 # frozen_string_literal: true
 
-# brew config for emommit
-class Emommit < Formula
+# brew config for emomit
+class Emomit < Formula
   desc "git commit with emoji"
-  homepage "https://github.com/chyroc/emommit"
-  url "https://github.com/chyroc/emommit/releases/download/v0.1.0/emommit-0.1.0.tar.gz"
-  sha256 "4da31541f8b79b7421ba624d3338da31b07940c8c33b981e9b7c5ea5ed8030f3"
+  homepage "https://github.com/chyroc/emomit"
+  url "https://github.com/chyroc/emomit/releases/download/v0.2.0/emomit-0.2.0.tar.gz"
+  sha256 "c4fb14a4d2d9c115e02e3bc45a5b7cd24612d4d7f4d7513a044ddf3d4f9da818"
   license "Apache-2.0"
-  head "https://github.com/chyroc/emommit"
+  head "https://github.com/chyroc/emomit"
 
   depends_on "go" => :build
 
