@@ -48,6 +48,15 @@ $ brew install chyroc/tap/mdcat
 $ brew install chyroc/tap/emomit
 ```
 
+### serve
+
+- README: https://github.com/chyroc/serve
+- Usage: 本地部署访问静态文件
+
+```sh
+$ brew install chyroc/tap/serve
+```
+
 ### media-to-github
 
 - README: https://github.com/chyroc/media-to-github
