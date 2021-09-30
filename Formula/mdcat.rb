@@ -5,7 +5,7 @@ class Mdcat < Formula
   desc "Convert markdown to github style html page"
   homepage "https://github.com/chyroc/mdcat"
   url "https://github.com/chyroc/mdcat/releases/download/v0.6.0/mdcat-0.6.0.tar.gz"
-  sha256 "19759948b06f8d26ff3aef26974df510227a2b8c30ddff36f4165dd8a923c4cf"
+  sha256 "a51b2d3a514c2a9b64f0f36160602fbed6214ae5692f557f5e1fdae3fa12d0bc"
   license "Apache-2.0"
   head "https://github.com/chyroc/mdcat"
 
