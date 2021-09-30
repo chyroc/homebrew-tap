@@ -4,8 +4,8 @@
 class Emomit < Formula
   desc "git commit with emoji"
   homepage "https://github.com/chyroc/emomit"
-  url "https://github.com/chyroc/emomit/releases/download/v0.2.0/emomit-0.2.0.tar.gz"
-  sha256 "c4fb14a4d2d9c115e02e3bc45a5b7cd24612d4d7f4d7513a044ddf3d4f9da818"
+  url "https://github.com/chyroc/emomit/releases/download/v0.3.0/emomit-0.3.0.tar.gz"
+  sha256 "00acb9fc464127634ba93db6d2b5fc0eba81e9192c3f97a5b3cb77d047fea234"
   license "Apache-2.0"
   head "https://github.com/chyroc/emomit"
 
