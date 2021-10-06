@@ -4,8 +4,8 @@
 class OtpCli < Formula
   desc "Tool for generate otp code in terminal"
   homepage "https://github.com/chyroc/otp-cli"
-  url "https://github.com/chyroc/otp-cli/releases/download/v0.3.0/otp-cli-0.3.0.tar.gz"
-  sha256 "b0c3a0afb4f886db32bcc12ed3d6eec985fe9cf4487e4db412557dfbdd5dcafe"
+  url "https://github.com/chyroc/otp-cli/releases/download/v0.4.0/otp-cli-0.4.0.tar.gz"
+  sha256 "9ae6379ddedfb048a4e4bd7e54edca026b107d679389f2fe0b14268b4ee82a58"
   license "Apache-2.0"
   head "https://github.com/chyroc/otp-cli"
 

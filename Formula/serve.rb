@@ -4,8 +4,8 @@
 class Serve < Formula
   desc "Static file hosting"
   homepage "https://github.com/chyroc/serve"
-  url "https://github.com/chyroc/serve/releases/download/v0.1.0/serve-0.1.0.tar.gz"
-  sha256 "1607bbb9b94ff204ebaad5d3707125686e6284e50e65c9a0eb525d0122c65557"
+  url "https://github.com/chyroc/serve/releases/download/v0.3.0/serve-0.3.0.tar.gz"
+  sha256 "1d983898ebbbbffdaf000b681742788048c27531e1f389e900e3188955a59c73"
   license "Apache-2.0"
   head "https://github.com/chyroc/serve"
 
