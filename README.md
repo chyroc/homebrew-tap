@@ -57,6 +57,15 @@ $ brew install chyroc/tap/emomit
 $ brew install chyroc/tap/serve
 ```
 
+### anb
+
+- README: https://github.com/chyroc/anb
+- Usage: 部署服务器工具
+
+```sh
+$ brew install chyroc/tap/anb
+```
+
 ### media-to-github
 
 - README: https://github.com/chyroc/media-to-github
